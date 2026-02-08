@@ -1,0 +1,6 @@
+print("welcome to inceptor")
+Name=input("what is your name? ")
+age=input("what is your age?")
+print(Name)
+print(age)
+print("my name is",Name,"and i am",age,"years old")
